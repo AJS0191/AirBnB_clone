@@ -4,7 +4,7 @@ header {
     width: 100%;
     border-style: line;
     border-bottom: 1px solid #CCCCCC;
-    position: fixed;
+    position: relative;
     top: 0;
     left: 0;
 }
